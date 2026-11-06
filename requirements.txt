@@ -1,0 +1,5 @@
+# Pinned to the exact pre-compiled Windows wheel version to prevent Rust compilation errors
+nautilus_trader==1.221.0
+python-dotenv>=1.0.0
+numpy>=2.0.0
+reportlab>=4.0.0

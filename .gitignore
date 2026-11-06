@@ -1,0 +1,28 @@
+# Environment & Secrets (NEVER commit actual API keys)
+.env
+*.env
+!.env.example
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# NautilusTrader runtime logs & artifacts
+*.log
+.nautilus/
+logs/
+
+# IDE & OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
