@@ -192,8 +192,6 @@ EXECUTING SHORT STRADDLE
 📊 STRADDLE MtM | Call Ask=0.0440 Put Ask=0.0420 | Combined Buyback=0.0860
 ```
 
----
-
 ## Troubleshooting
 
 | Issue | Solution |
